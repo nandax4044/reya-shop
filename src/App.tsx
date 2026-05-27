@@ -398,7 +398,7 @@ export default function App() {
         <div className="absolute inset-0 bg-gradient-to-tr from-[#0a0f1e] via-[#0d1a3a]/45 to-[#001a4d]/40 opacity-80 animate-gradient-diagonal pointer-events-none"></div>
 
         {/* Floating Game Pixel Decorative Icons */}
-        <div className="absolute top-1/4 left-[8%] w-10 h-10 bg-gradient-to-tr from-sky-500 to-sky-300 rounded-lg opacity-20 blur-[1px] transform rotate-12 animate-float-slow pointer-events-none hidden lg:block"></div>
+        
         <div className="absolute top-1/3 right-[12%] w-14 h-14 bg-gradient-to-br from-blue-600 to-indigo-500 rounded-md opacity-25 blur-[2px] transform -rotate-45 animate-float-fast pointer-events-none hidden lg:block"></div>
         <div className="absolute bottom-1/5 left-[15%] w-12 h-12 bg-gradient-to-tr from-cyan-400 to-teal-500 rounded-lg opacity-15 blur-[1px] transform rotate-45 animate-float-fast pointer-events-none hidden lg:block"></div>
         <div className="absolute bottom-1/4 right-[8%] w-8 h-8 bg-gradient-to-tl from-purple-500 to-pink-500 rounded-md opacity-20 blur-[1px] transform rotate-6 animate-float-slow pointer-events-none hidden lg:block"></div>
@@ -418,18 +418,10 @@ export default function App() {
             </motion.div>
 
             {/* Headline Title */}
-            <motion.h1 
-              initial={{ opacity: 0, scale: 0.95 }}
-              animate={{ opacity: 1, scale: 1 }}
-              transition={{ duration: 0.6, delay: 0.1 }}
-              className="font-rajdhani text-4xl sm:text-5xl md:text-6xl font-bold tracking-tight text-white uppercase leading-tight flex flex-col sm:flex-row items-center justify-center gap-x-3 gap-y-1"
-            >
-              <span className="inline-flex items-center gap-2">
-                <Gamepad className="w-8 h-8 sm:w-10 sm:h-10 text-sky-400 animate-pulse-glow" style={{ animation: "pulse-glow 2s infinite" }} />
-                WELCOME TO
-              </span>
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#00aaff] via-cyan-300 to-blue-500 drop-shadow-[0_0_15px_rgba(0,170,255,0.3)] filter">
-                {shopData.shopName}
+            <motion.h1>
+              <span className="w-100 h-100 inline-flex items-center">
+                  <Gamepad className="w-8 h-8 sm:w-10 sm:h-10 text-sky-400 animate-pulse-glow" style={{ animation: "pulse-glow 2s infinite" }} />
+                <img src="/logo.png" alt="Logo" />
               </span>
             </motion.h1>
 
@@ -440,8 +432,7 @@ export default function App() {
               transition={{ duration: 0.6, delay: 0.2 }}
               className="mt-6 max-w-2xl mx-auto text-base sm:text-lg md:text-xl text-slate-400 font-medium"
             >
-              Toko item Growtopia terpercaya — Fast delivery, secure transaction. 
-              Dapatkan item idamanmu dengan harga termurah dan layanan profesional terbaik!
+              
             </motion.p>
 
             {/* CTA Interaction Buttons */}
@@ -469,7 +460,6 @@ export default function App() {
                 <span>Hubungi Admin</span>
               </a>
             </motion.div>
-
             {/* Service Features Trust Row */}
             <motion.div 
               initial={{ opacity: 0 }}
@@ -515,7 +505,6 @@ export default function App() {
       </section>
 
 
-
       {/* FILTER, SEARCH, AND GRID STORE ITEMS */}
       <section id="items" ref={itemsSectionRef} className="py-16 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 scroll-mt-20">
         
@@ -524,7 +513,7 @@ export default function App() {
           <div>
             <div className="inline-flex items-center space-x-2 text-sky-400 font-rajdhani font-bold text-sm tracking-widest uppercase mb-1">
               <Grid className="w-4 h-4 text-sky-400" />
-              <span>Daftar Katalog Item</span>
+              <span>CARI ITEM</span>
             </div>
             <h2 className="font-rajdhani text-3xl sm:text-4xl font-bold text-white uppercase tracking-wide flex items-center gap-2.5 justify-center md:justify-start">
               <ShoppingBag className="w-7 h-7 text-sky-400 stroke-[2]" />
@@ -774,7 +763,7 @@ export default function App() {
                 {shopData.shopName}
               </span>
               <p className="text-slate-400 text-sm leading-relaxed max-w-sm mx-auto md:mx-0">
-                Penyedia item game Growtopia terlengkap dan paling terpercaya sejak 2023. Fast delivery, secure transaction, customer satisfaction is our top priority!
+                Assets Reya Private Server - Growtopia Private Server
               </p>
             </div>
 
@@ -823,9 +812,7 @@ export default function App() {
                   <span className="font-rajdhani font-bold">FAST PROSES</span>
                 </div>
               </div>
-              <p className="text-[11px] text-slate-500 text-center md:text-left leading-relaxed">
-                Kami tidak menyimpan informasi akun GrowID Anda. Transaksi dilakukan aman secara langsung melalui chat WhatsApp resmi admin kami di nomor <span className="text-slate-400 font-mono">+{shopData.whatsappNumber}</span>.
-              </p>
+            
             </div>
 
           </div>

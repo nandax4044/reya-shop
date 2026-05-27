@@ -34,6 +34,36 @@
       "featured": false
     },
     {
+      "id": 3,
+      "name": "Dragon Custom Skin",
+      "category": "Custom Item",
+      "description": "Custom item skin naga legendaris. Desain eksklusif, tidak dijual di tempat lain.",
+      "price": 500000,
+      "image": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=400&auto=format&fit=crop&q=60",
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": 3,
+      "name": "Dragon Custom Skin",
+      "category": "Custom Item",
+      "description": "Custom item skin naga legendaris. Desain eksklusif, tidak dijual di tempat lain.",
+      "price": 500000,
+      "image": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=400&auto=format&fit=crop&q=60",
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": 3,
+      "name": "Dragon Custom Skin",
+      "category": "Custom Item",
+      "description": "Custom item skin naga legendaris. Desain eksklusif, tidak dijual di tempat lain.",
+      "price": 500000,
+      "image": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=400&auto=format&fit=crop&q=60",
+      "inStock": true,
+      "featured": false
+    },
+    {
       "id": 4,
       "name": "Magplant 5000",
       "category": "Magplant",
@@ -55,21 +85,21 @@
     },
     {
       "id": 6,
-      "name": "Farm Paket Starter",
+      "name": "Island Farm Cow",
       "category": "Farm Paket",
-      "description": "Paket farming lengkap untuk pemula. Sudah include semua benih dan tool farm.",
-      "price": 200000,
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&auto=format&fit=crop&q=60",
+      "description": "World Island 8511 Cow dan 7 Unstable Tesseract",
+      "price": 15000,
+      "image": "https://i.pinimg.com/1200x/34/7f/ef/347fef4c662d6be3d086139bbf92ad0c.jpg",
       "inStock": true,
       "featured": false
     },
     {
       "id": 7,
-      "name": "Farm Paket Pro",
+      "name": "Island Farm Tackel",
       "category": "Farm Paket",
-      "description": "Paket farming profesional untuk yield maksimal. Include rare seeds dan tools premium.",
-      "price": 850000,
-      "image": "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=400&auto=format&fit=crop&q=60",
+      "description": "World Island 5527 Tackle Box, 13 Unstable Tesseract dan 13 Vend",
+      "price": 150000,
+      "image": "https://i.pinimg.com/736x/9d/89/dc/9d89dc3e05b3d43a1c3aa9ea653cbb1b.jpg",
       "inStock": true,
       "featured": false
     },
