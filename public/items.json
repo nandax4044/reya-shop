@@ -8,8 +8,8 @@
       "name": "Legendary Dragon",
       "category": "Exclusive Item",
       "description": "naga yang besar dan sangat keren ketika di pakai.",
-      "price": 350000,
-      "image": "https://i.pinimg.com/736x/2d/8b/60/2d8b60fc17e7a6971ccdb2ca0818880b.jpg",
+      "price": 35000,
+      "image": "https://i.pinimg.com/736x/96/8a/fc/968afc2d221e98669380898a798c9e28.jpg",
       "inStock": true,
       "featured": false
     },
@@ -77,7 +77,7 @@
       "id": 8,
       "name": "Magplant 15K",
       "category": "Magplant",
-      "description": "Capacity 15000block.",
+      "description": "Capacity 15000 block.",
       "price": 25000,
       "image": "https://i.pinimg.com/736x/39/5d/ba/395dba77475be7bf7060c3e13a904da3.jpg",
       "inStock": true,
@@ -148,8 +148,8 @@
       "name": "Legendary Wings",
       "category": "Exclusive Item",
       "description": "Wings yang sangat luar biasa keren.",
-      "price": 2500000,
-      "image": "https://i.pinimg.com/736x/92/73/55/927355a780c0b4c03d40c3613d9df354.jpg",
+      "price": 25000,
+      "image": "https://i.pinimg.com/736x/79/70/78/7970780e734d1ad390e2259703c152c5.jpg",
       "inStock": true,
       "featured": false
     },
@@ -159,7 +159,127 @@
       "category": "Exclusive Item",
       "description": "tubuh yang besar terlihat menyeramkan ketika di pakai.",
       "price": 25000,
-      "image": "https://i.pinimg.com/736x/15/d5/7b/15d57b6ff6efca9cc26b563fb0403f3c.jpg",
+      "image": "https://i.pinimg.com/736x/c6/62/1a/c6621ac33e9682432f3cbd158778da52.jpg",
+      "inStock": true,
+      "featured": false
+    },
+     {
+      "id": 17,
+      "name": "Legendary Whip",
+      "category": "Exclusive Item",
+      "description": "Cambuk yang berkilau dan mematikan",
+      "price": 30000,
+      "image": "https://i.pinimg.com/736x/7b/05/a0/7b05a0aec71d95ba9b9f6b9b6912a071.jpg",
+      "inStock": true,
+      "featured": false
+    },
+      {
+      "id": 18,
+      "name": "Legendary DKW",
+      "category": "Exclusive Item",
+      "description": "Sayap besar bagaikan naga yang melekat di tububh mu",
+      "price": 30000,
+      "image": "https://i.pinimg.com/736x/16/74/da/1674da05f9d5255e62e5b82ef7eca12b.jpg",
+      "inStock": true,
+      "featured": false
+    },
+      {
+      "id": 19,
+      "name": "Legendary Owl",
+      "category": "Exclusive Item",
+      "description": "Burung hantu yang besar yang menemani kamu setiap kamu pergi",
+      "price": 15000,
+      "image": "https://i.pinimg.com/736x/a8/32/87/a83287a06d74df50477d17ae0fab0c2b.jpg",
+      "inStock": true,
+      "featured": false
+    },
+      {
+      "id": 20,
+      "name": "Legendary Katana",
+      "category": "Exclusive Item",
+      "description": "Katana besar dan elegant ketika di pakai",
+      "price": 25000,
+      "image": "https://i.pinimg.com/736x/45/44/06/454406f442c4341df10493f8e5e2903b.jpg",
+      "inStock": true,
+      "featured": false
+    },
+      {
+      "id": 21,
+      "name": "Legendary Destroyer",
+      "category": "Exclusive Item",
+      "description": "Mesin penghancur.",
+      "price": 15000,
+      "image": "https://i.pinimg.com/736x/a0/3c/37/a03c37f94c4ed41ac8530cfcbe11e0dd.jpg",
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": 22,
+      "name": "Cheats",
+      "category": "Role",
+      "description": "Access to /cheats system,  Auto farming & auto fishing enabled.",
+      "price": 25000,
+      "image": "https://i.pinimg.com/736x/00/f1/0b/00f10bf885234814d9f49328a855079b.jpg",
+      "inStock": true,
+      "featured": false
+    },
+     {
+      "id": 23,
+      "name": "Moderrator",
+      "category": "Role",
+      "description": "  Includes Cheater Role, Exclusive commands.",
+      "price": 100000,
+      "image": "https://i.pinimg.com/736x/91/cc/f5/91ccf5ebe9bcb50313c5063534ac65b2.jpg",
+      "inStock": true,
+      "featured": false
+    },
+       {
+      "id": 24,
+      "name": "Developer",
+      "category": "Role",
+      "description": "Includes Cheats Role, @Moderator, Access to /1hit command, Exclusive commands.",
+      "price": 200000,
+      "image": "https://i.pinimg.com/736x/1f/58/b9/1f58b92eca8894b0aa6bb520c74f7a8f.jpg",
+      "inStock": true,
+      "featured": false
+    },
+ {
+      "id": 25,
+      "name": "Super Developer",
+      "category": "Role",
+      "description": "Includes  Cheats Role, @Moderator and @Developer, Full access to all worlds  (Dont Used for Abuse), Exclusive commands ",
+      "price": 350000,
+      "image": "https://i.pinimg.com/736x/04/7d/08/047d08a94edcf2bb3a0352b7589bd1d5.jpg",
+      "inStock": true,
+      "featured": false
+    },
+ {
+      "id": 26,
+      "name": "Resseller",
+      "category": "Role",
+      "description": " Includes Cheats Role, @Moderator @Developer @Super Developer, Status: Trusted Reseller Verified, Access to ⁠✅▏trusted-seller, Exclusive Discord role included",
+      "price": 550000,
+      "image": "https://i.pinimg.com/736x/9a/89/d9/9a89d981301e3fe1f408da65e44d9ab0.jpg",
+      "inStock": true,
+      "featured": false
+    },
+ {
+      "id": 27,
+      "name": "Midman",
+      "category": "Role",
+      "description": " Includes Cheats Role @Moderator @Developer @Super Developer @Reseller, Status: Trusted Midman Verified  and Reseller, In-game reward: Untradeable Box",
+      "price": "750000",
+      "image": "https://i.pinimg.com/736x/94/c3/85/94c385ae2d7058bc78ad7f76070201b9.jpg",
+      "inStock": true,
+      "featured": false
+    },
+     {
+      "id": 28,
+      "name": "Unli",
+      "category": "Role",
+      "description": "Includes command /buy",
+      "price": "300000",
+      "image": "https://i.pinimg.com/736x/cb/84/a9/cb84a95633a80eec09ea5d1f28d50be0.jpg",
       "inStock": true,
       "featured": false
     }
