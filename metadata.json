@@ -1,0 +1,6 @@
+{
+  "name": "Reya Shop",
+  "description": "A dark-themed gaming-style static-ready item shop for Growtopia items with dynamic filtering, real-time search, and direct WhatsApp buyer links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,87 @@
+{
+  "shopName": "Reya Shop",
+  "whatsappNumber": "6281234567890",
+  "currency": "Rp",
+  "items": [
+    {
+      "id": 1,
+      "name": "Angel Wings Role",
+      "category": "Role",
+      "description": "Role sayap malaikat legendary. Boost stat dan tampilan karakter menjadi epic.",
+      "price": 350000,
+      "image": "https://i.pinimg.com/736x/51/92/94/519294e7ed166efb041d467b7880b1c9.jpg",
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": 2,
+      "name": "World Champion Title",
+      "category": "Title",
+      "description": "Title eksklusif World Champion. Tampil keren di depan nama GrowID kamu.",
+      "price": 150000,
+      "image": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=400&auto=format&fit=crop&q=60",
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": 3,
+      "name": "Dragon Custom Skin",
+      "category": "Custom Item",
+      "description": "Custom item skin naga legendaris. Desain eksklusif, tidak dijual di tempat lain.",
+      "price": 500000,
+      "image": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=400&auto=format&fit=crop&q=60",
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": 4,
+      "name": "Magplant 5000",
+      "category": "Magplant",
+      "description": "Magplant 5000 siap pakai. Percepat farming kamu dengan magnet plant terbaik.",
+      "price": 750000,
+      "image": "https://images.unsplash.com/photo-1563089145-599997674d42?w=400&auto=format&fit=crop&q=60",
+      "inStock": false,
+      "featured": false
+    },
+    {
+      "id": 5,
+      "name": "Stock Magplant Bundle",
+      "category": "Stock Magplant",
+      "description": "Bundle stock magplant 10 buah. Hemat 20% dibanding beli satuan.",
+      "price": 6000000,
+      "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=400&auto=format&fit=crop&q=60",
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": 6,
+      "name": "Farm Paket Starter",
+      "category": "Farm Paket",
+      "description": "Paket farming lengkap untuk pemula. Sudah include semua benih dan tool farm.",
+      "price": 200000,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&auto=format&fit=crop&q=60",
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": 7,
+      "name": "Farm Paket Pro",
+      "category": "Farm Paket",
+      "description": "Paket farming profesional untuk yield maksimal. Include rare seeds dan tools premium.",
+      "price": 850000,
+      "image": "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=400&auto=format&fit=crop&q=60",
+      "inStock": true,
+      "featured": false
+    },
+    {
+      "id": 8,
+      "name": "Phoenix Exclusive Set",
+      "category": "Exclusive Item",
+      "description": "Set eksklusif Phoenix yang super langka. Limited edition, stok sangat terbatas.",
+      "price": 2500000,
+      "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=400&auto=format&fit=crop&q=60",
+      "inStock": true,
+      "featured": false
+    }
+  ]
+}

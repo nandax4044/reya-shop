@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "cleanUrls": true,
+  "routes": [
+    { "src": "/items.json", "dest": "/items.json" },
+    { "src": "/assets/(.*)", "dest": "/assets/$1" },
+    { "src": "/(.*)", "dest": "/index.html" }
+  ]
+}
